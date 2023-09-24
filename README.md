@@ -8,6 +8,7 @@ Demonstrating innovative solutions to complex data problems.
 -  Building **K-means Clustering** & **EM Algorithm** models with **R**.
 -  Creating animated plots to show the changes in each iteration.
 -  In depth evaluating and analysing the result and advantages of the two models.
+![K-means GIF](./plots/EM_wine_animation.gif)
 
 
 # [Project 2: House Prices Advanced Regression Techniques 🏠](https://github.com/YaoSheng-Yu/house-prices-advanced-regression-techniques)
