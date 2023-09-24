@@ -35,5 +35,5 @@ Demonstrating innovative solutions to complex data problems.
 - Efficiently implementing **Kruskal's Algorithm** to derive a **Minimum Spanning Tree (MST)** for the given weighted graph.
 - Employing **Depth-First Search (DFS)** traversal on the MST to **approximate** a TSP solution, showcasing algorithmic prowess.
 - Including utility scripts to generate graph test cases, enabling both best-case and worst-case scenario analysis for thorough evaluation.
-![ratio_of_TSP.png](plots/ratio_of_TSP.png.png)
+![ratio_of_TSP.png](plots/ratio_of_TSP.png)
 
