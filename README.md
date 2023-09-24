@@ -1,5 +1,4 @@
 # YaoSheng's Protofolio
-Demonstrating innovative solutions to complex data problems.
 
 
 # [Project 1: Wine Clustering Analysis 🍷](https://github.com/YaoSheng-Yu/Wine_Cluster_Analysis)
