@@ -8,6 +8,7 @@ Demonstrating innovative solutions to complex data problems.
 -  Building **K-means Clustering** & **EM Algorithm** models with **R**.
 -  Creating animated plots to show the changes in each iteration.
 -  In depth evaluating and analysing the result and advantages of the two models.
+
 ![K-means GIF](./plots/EM_wine_animation.gif)
 
 
@@ -17,6 +18,7 @@ Demonstrating innovative solutions to complex data problems.
 - Encoding categorical variables using the **smoothed median** of their corresponding SalePrice, ensuring minimal data leakage.
 - Leveraging Random Forests in combination with Recursive Feature Elimination (RFE) for efficient **feature selection**.
 - Optimizing **Gradient Boosting Regression** through Grid Search, enhancing model performance and accuracy.
+
 ![Sale Price Distribution](plots/price_dist.png)
 
 
@@ -26,6 +28,7 @@ Demonstrating innovative solutions to complex data problems.
 - Checking data correlation, removing features with high **multicollinearity** to ensure model robustness.
 - Using Grid Search coupled with **ROC_AUC** metric to rigorously evaluate and optimize four distinct classifiers.
 - Addressing class imbalance through **under-sampling** techniques, ensuring a balanced target distribution for enhanced predictive accuracy.
+
 ![Age and Income Relationship](plots/age.png)
 
 
@@ -35,7 +38,6 @@ Demonstrating innovative solutions to complex data problems.
 - Efficiently implementing **Kruskal's Algorithm** to derive a **Minimum Spanning Tree (MST)** for the given weighted graph.
 - Employing **Depth-First Search (DFS)** traversal on the MST to **approximate** a TSP solution, showcasing algorithmic prowess.
 - Including utility scripts to generate graph test cases, enabling both best-case and worst-case scenario analysis for thorough evaluation.
+
 ![ratio_of_TSP.png](plots/ratio_of_TSP.png)
 
-
-* @theme: Cayman
