@@ -1,5 +1,6 @@
 # YaoSheng-Protofolio
-Showcasing my protofolio
+Demonstrating innovative solutions to complex data problems.
+
 
 # [Project 1: Wine Clustering Analysis 🍷](https://github.com/YaoSheng-Yu/Wine_Cluster_Analysis)
 
@@ -8,12 +9,14 @@ Showcasing my protofolio
 -  Creating animated plots to show the changes in each iteration.
 -  In depth evaluating and analysing the result and advantages of the two models.
 
+
 # [Project 2: House Prices Advanced Regression Techniques 🏠](https://github.com/YaoSheng-Yu/house-prices-advanced-regression-techniques)
 
 - Undertaking comprehensive **Exploratory Data Analysis** to glean insights from the dataset.
 - Encoding categorical variables using the **smoothed median** of their corresponding SalePrice, ensuring minimal data leakage.
 - Leveraging Random Forests in combination with Recursive Feature Elimination (RFE) for efficient **feature selection**.
 - Optimizing **Gradient Boosting Regression** through Grid Search, enhancing model performance and accuracy.
+
 
 # [Project 3: Give Me Some Credit 🏦](https://github.com/YaoSheng-Yu/Give-Me-Some-Credit---predicting-due-delinquency)
 
@@ -22,9 +25,10 @@ Showcasing my protofolio
 - Using Grid Search coupled with **ROC_AUC** metric to rigorously evaluate and optimize four distinct classifiers.
 - Addressing class imbalance through **under-sampling** techniques, ensuring a balanced target distribution for enhanced predictive accuracy.
 
-  # [Project 4: Traveling Salesman Problem-TSP 👨‍💼](https://github.com/YaoSheng-Yu/Traveling-Salesman-Problem-TSP)
 
-  - Developing an advanced solution to the classic **Traveling Salesman Problem (TSP)** utilizing **heuristic** algorithms.
-  - Efficiently implementing **Kruskal's Algorithm** to derive a **Minimum Spanning Tree (MST)** for the given weighted graph.
-  - Employing **Depth-First Search (DFS)** traversal on the MST to **approximate** a TSP solution, showcasing algorithmic prowess.
-  - Including utility scripts to generate graph test cases, enabling both best-case and worst-case scenario analysis for thorough evaluation.
+# [Project 4: Traveling Salesman Problem-TSP 👨‍💼](https://github.com/YaoSheng-Yu/Traveling-Salesman-Problem-TSP)
+
+- Developing an advanced solution to the classic **Traveling Salesman Problem (TSP)** utilizing **heuristic** algorithms.
+- Efficiently implementing **Kruskal's Algorithm** to derive a **Minimum Spanning Tree (MST)** for the given weighted graph.
+- Employing **Depth-First Search (DFS)** traversal on the MST to **approximate** a TSP solution, showcasing algorithmic prowess.
+- Including utility scripts to generate graph test cases, enabling both best-case and worst-case scenario analysis for thorough evaluation.
