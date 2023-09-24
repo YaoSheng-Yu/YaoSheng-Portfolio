@@ -1,4 +1,4 @@
-# Yao-Sheng's Protofolio
+# Yao-Sheng's Portfolio
 
 # [Project 1: Wine Clustering Analysis 🍷](https://github.com/YaoSheng-Yu/Wine_Cluster_Analysis)
 
