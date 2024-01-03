@@ -40,7 +40,7 @@
 ![ratio_of_TSP.png](plots/ratio_of_TSP.png)  
 
 
-# [Project 5: Rat Ultrasonic Vocalization Identification 🐀](https://github.com/YaoSheng-Yu/Rat-calls-audio-preprocessing-and-identification)
+# [Project 5: Rat USV Identification 🐀](https://github.com/YaoSheng-Yu/Rat-calls-audio-preprocessing-and-identification)
 
 - Conducted thorough EDA to visualize noise distribution and initial accuracy, and to guide the noise cleaning process.
 - Implemented advanced noise cleaning techniques, including **bandstop filters**, to isolate and enhance USV signals from background noise.
