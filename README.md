@@ -46,6 +46,6 @@
 - Implemented advanced noise cleaning techniques, including **bandstop filters**, to isolate and enhance USV signals from background noise.
 - Utilized the DeepSqueak software with YOLO model for object detection, and optimized the threshold parameters to significantly increase the precision and accuracy of USV detection.  
 
-<img src="plots/filtering_lower_freq.png" alt="Filtering Lower Frequency" width="120%" />
+![Filtering Lower Freq](plots/filtering_lower_freq.png)  
 
 
