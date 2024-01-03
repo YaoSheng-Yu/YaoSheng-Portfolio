@@ -37,5 +37,14 @@
 - Employing **Depth-First Search (DFS)** traversal on the MST to **approximate** a TSP solution, showcasing algorithmic prowess.
 - Including utility scripts to generate graph test cases, enabling both best-case and worst-case scenario analysis for thorough evaluation.
 
-![ratio_of_TSP.png](plots/ratio_of_TSP.png)
+![ratio_of_TSP.png](plots/ratio_of_TSP.png)  
+
+
+# [Project 5: Rat Ultrasonic Vocalization Identification 🐀](https://github.com/YaoSheng-Yu/Rat-calls-audio-preprocessing-and-identification)
+
+- Conducted thorough EDA to visualize noise distribution and initial accuracy, and to guide the noise cleaning process.
+- Implemented advanced noise cleaning techniques, including **bandstop filters**, to isolate and enhance USV signals from background noise.
+- Utilized the DeepSqueak software with YOLO model for object detection, and optimized the threshold parameters to significantly increase the precision and accuracy of USV detection.  
+
+![Filtering Lower Freq](plots/filtering_lower_freq.png)  
 
