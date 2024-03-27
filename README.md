@@ -36,7 +36,7 @@
 - Utilized **Ridge Regression** as the primary model, which provided the most balanced results, achieving an MSE of 103.66 and explaining approximately 51% of the variance in win percentage.
 - The project underscores the significant influence of **three-point shooting efficiency, rebound control, and true shooting percentage** on the outcomes of NBA games.
 
-![predicted_nba.png](plots/predicted_nba.png)  
+![scatter_nba.png](plots/scatter_nba.png)  
 
 
 # [Project 5: Traveling Salesman Problem-TSP 👨‍💼](https://github.com/YaoSheng-Yu/Traveling-Salesman-Problem-TSP)
