@@ -30,7 +30,16 @@
 ![Age and Income Relationship](plots/age.png)
 
 
-# [Project 4: Traveling Salesman Problem-TSP 👨‍💼](https://github.com/YaoSheng-Yu/Traveling-Salesman-Problem-TSP)
+# [Project 4: NBA Advance Stats Analysis 🏀](https://github.com/YaoSheng-Yu/NBA_advance_stats_analysis)
+
+- Conducted a comprehensive analysis of NBA game data to explore the impact of advanced basketball statistics on team win percentages.
+- Utilized **Ridge Regression** as the primary model, which provided the most balanced results, achieving an MSE of 103.66 and explaining approximately 51% of the variance in win percentage.
+- The project underscores the significant influence of **three-point shooting efficiency, rebound control, and true shooting percentage** on the outcomes of NBA games.
+
+![predicted_nba.png](plots/predicted_nba.png)  
+
+
+# [Project 5: Traveling Salesman Problem-TSP 👨‍💼](https://github.com/YaoSheng-Yu/Traveling-Salesman-Problem-TSP)
 
 - Developing an advanced solution to the classic **Traveling Salesman Problem (TSP)** utilizing **heuristic** algorithms.
 - Efficiently implementing **Kruskal's Algorithm** to derive a **Minimum Spanning Tree (MST)** for the given weighted graph.
@@ -40,7 +49,7 @@
 ![ratio_of_TSP.png](plots/ratio_of_TSP.png)  
 
 
-# [Project 5: Rat USV Identification 🐀](https://github.com/YaoSheng-Yu/Rat-calls-audio-preprocessing-and-identification)
+# [Project 6: Rat USV Identification 🐀](https://github.com/YaoSheng-Yu/Rat-calls-audio-preprocessing-and-identification)
 
 - Conducted thorough EDA to visualize noise distribution and initial accuracy, and to guide the noise cleaning process.
 - Implemented advanced noise cleaning techniques, including **bandstop filters**, to isolate and enhance USV signals from background noise.
