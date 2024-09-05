@@ -38,7 +38,7 @@
 
 ![scatter_nba.png](plots/scatter_nba.png)  
 
-# [Project 5: Power Of Math ☁️](https://dev.d162d5jew5ux0o.amplifyapp.com/)
+# [Project 5: Power Of Math: AWS full-stack web app ☁️](https://dev.d162d5jew5ux0o.amplifyapp.com/)
 
 - A simple **AWS** full-stack web application that calculates the result of a base number raised to an exponent.  
 - Frontend: Hosted using **AWS Amplify**, allowing for easy deployment and access.  
