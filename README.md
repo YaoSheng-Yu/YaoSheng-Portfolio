@@ -38,8 +38,18 @@
 
 ![scatter_nba.png](plots/scatter_nba.png)  
 
+# [Project 5: Power Of Math ☁️](https://dev.d162d5jew5ux0o.amplifyapp.com/)
 
-# [Project 5: Traveling Salesman Problem-TSP 👨‍💼](https://github.com/YaoSheng-Yu/Traveling-Salesman-Problem-TSP)
+- A simple AWS full-stack web application that calculates the result of a base number raised to an exponent.  
+- Frontend: Hosted using AWS Amplify, allowing for easy deployment and access.  
+- Backend: Utilizes AWS Lambda for serverless execution of the mathematical operations.  
+- API Integration: API Gateway is used to connect the frontend and backend, enabling secure data transfer.  
+- Database: The results are stored in a DynamoDB table for persistence and future use.  
+
+![scatter_nba.png](plots/PowerOfMath.png)  
+
+
+# [Project 6: Traveling Salesman Problem-TSP 👨‍💼](https://github.com/YaoSheng-Yu/Traveling-Salesman-Problem-TSP)
 
 - Developing an advanced solution to the classic **Traveling Salesman Problem (TSP)** utilizing **heuristic** algorithms.
 - Efficiently implementing **Kruskal's Algorithm** to derive a **Minimum Spanning Tree (MST)** for the given weighted graph.
@@ -49,7 +59,7 @@
 ![ratio_of_TSP.png](plots/ratio_of_TSP.png)  
 
 
-# [Project 6: Rat USV Identification 🐀](https://github.com/YaoSheng-Yu/Rat-calls-audio-preprocessing-and-identification)
+# [Project 7: Rat USV Identification 🐀](https://github.com/YaoSheng-Yu/Rat-calls-audio-preprocessing-and-identification)
 
 - Conducted thorough EDA to visualize noise distribution and initial accuracy, and to guide the noise cleaning process.
 - Implemented advanced noise cleaning techniques, including **bandstop filters**, to isolate and enhance USV signals from background noise.
