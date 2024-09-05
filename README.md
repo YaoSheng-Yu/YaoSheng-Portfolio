@@ -40,13 +40,13 @@
 
 # [Project 5: Power Of Math ☁️](https://dev.d162d5jew5ux0o.amplifyapp.com/)
 
-- A simple AWS full-stack web application that calculates the result of a base number raised to an exponent.  
-- Frontend: Hosted using AWS Amplify, allowing for easy deployment and access.  
-- Backend: Utilizes AWS Lambda for serverless execution of the mathematical operations.  
-- API Integration: API Gateway is used to connect the frontend and backend, enabling secure data transfer.  
-- Database: The results are stored in a DynamoDB table for persistence and future use.  
+- A simple **AWS** full-stack web application that calculates the result of a base number raised to an exponent.  
+- Frontend: Hosted using **AWS Amplify**, allowing for easy deployment and access.  
+- Backend: Utilizes **AWS Lambda** for serverless execution of the mathematical operations.  
+- API Integration: **API Gateway** is used to connect the frontend and backend, enabling secure data transfer.  
+- Database: The results are stored in a **DynamoDB** table for persistence and future use.  
 
-![scatter_nba.png](plots/PowerOfMath.png)  
+![PowerOfMath.png](plots/PowerOfMath.png)  
 
 
 # [Project 6: Traveling Salesman Problem-TSP 👨‍💼](https://github.com/YaoSheng-Yu/Traveling-Salesman-Problem-TSP)
